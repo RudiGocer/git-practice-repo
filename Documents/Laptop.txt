@@ -1,0 +1,7 @@
+total 24
+drwxr-xr-x 1 rudig 197121  0 Aug 31 23:51 ./
+drwxr-xr-x 1 rudig 197121  0 Sep  1 00:03 ../
+-rw-r--r-- 1 rudig 197121  0 Sep  1 00:11 Laptop.txt
+lrwxrwxrwx 1 rudig 197121 20 Mar 18  2021 My Music -> /c/Users/rudig/Music/
+lrwxrwxrwx 1 rudig 197121 23 Mar 18  2021 My Pictures -> /c/Users/rudig/Pictures
+lrwxrwxrwx 1 rudig 197121 21 Mar 18  2021 My Videos -> /c/Users/rudig/Videos/
